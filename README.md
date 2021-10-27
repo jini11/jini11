@@ -5,7 +5,7 @@
 ### Who Am I
 
 - 🌱 I’m currently learning machine learning in natural language 
-- ⏳  I'll learn the backend field
+- ⏳   I'll learn the backend field
 - 🤔 I majored in Computer Engineering.
 
 #### Experience

@@ -23,3 +23,6 @@ Tools
 
 <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Java&logoColor=white"/>
+
+### email  
+jieun21124@naver.com

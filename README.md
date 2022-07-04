@@ -25,4 +25,7 @@ Tools
 <img src="https://img.shields.io/badge/VSC-007ACC?style=flat-square&logo=Java&logoColor=white"/> 
 <img src="https://img.shields.io/badge/SpringBoot-green?style=flat&logo=SpringBoot&logoColor=6DB33F"/>
 ### email  
-jieun21124@naver.com
+jieun21124@naver.com  
+
+# <div align="center">[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini11)](https://github.com/anuraghazra/github-readme-stats)</div>  
+# <div align="center">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jini11&layout=compact&hide=jupyter%20notebook)</div>

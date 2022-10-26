@@ -12,6 +12,8 @@
 
 - 👨‍🎓 Kongju University, Computer (2019.03~ )
 
+#### 💻 my vlog  
+https://jinijiniblog.tistory.com/  
 
 #### ✔ Skills  
 Platforms & Languages  

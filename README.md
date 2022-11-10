@@ -1,7 +1,5 @@
-### Jini 😃
----  
-  
-    
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello&desc=I%27m%20Jini&fontAlignY=40&fontAlignX=80animation=twinkling)
+
 ### Who Am I
 
 - 🌱 I’m currently learning Web Programming using Spring Boot.

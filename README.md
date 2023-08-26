@@ -8,9 +8,6 @@
 
 ---
 
-### 💻 my vlog  
-https://jinijiniblog.tistory.com/  
-
 ### ✔ Skills  
 Platforms & Languages  
 

@@ -8,7 +8,7 @@
 
 ---
 
-### ✔ Skills  
+<!-- ### ✔ Skills  
 Platforms & Languages  
 
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=Java&logoColor=white"/> <img src="https://img.shields.io/badge/SpringBoot-green?style=flat-square&logo=SpringBoot&logoColor=6DB33F"/> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>
@@ -19,7 +19,7 @@ Platforms & Languages
 <img src="https://img.shields.io/badge/IntelliJ-000000?style=flat-square&logo=IntelliJ&logoColor=white"/>
 ### email  
 jieun21124@naver.com   
-
+-->
 ### Baekjoon  
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jieun21124)](https://solved.ac/jieun21124/)
  <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jini11)](https://github.com/anuraghazra/github-readme-stats)
